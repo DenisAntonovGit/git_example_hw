@@ -1,0 +1,5 @@
+\.gradle
+\.idea
+1.log
+*.log
+*.class
